@@ -1,26 +1,40 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        vector<int> i_pos;
-        vector<int> j_pos;
+        bool firstrowzero=false;
+        bool firstcolzero=false;
+        for(int i=0;i<matrix[0].size();i++){
+            if(matrix[0][i]==0){firstrowzero=true;}
+        }
         for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[0].size();j++){
+            if(matrix[i][0]==0){firstcolzero=true;}
+        }
+        for(int i=1;i<matrix.size();i++){
+            for(int j=1;j<matrix[0].size();j++){
                 if(matrix[i][j]==0){
-                    i_pos.push_back(i);
-                    j_pos.push_back(j);
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
                 }
             }
         }
-        
-        for( int i=0;i<i_pos.size();i++){
-            for(int row=0;row<matrix.size();row++){
-                matrix[row][j_pos[i]]=0;
+        for(int i = 1; i < matrix.size(); i++){
+            if(matrix[i][0] == 0){
+            for(int j = 0; j < matrix[0].size(); j++){
+                matrix[i][j] = 0;
             }
         }
-        for( int i=0;i<i_pos.size();i++){
-            for(int col=0;col<matrix[0].size();col++){
-                matrix[i_pos[i]][col]=0;
-            }
         }
+        for(int i = 1; i < matrix[0].size(); i++){
+            if(matrix[0][i] == 0){
+            for(int j = 0; j < matrix.size(); j++){
+                matrix[j][i] = 0;
+            }
+            }
+        }    
+        if(firstrowzero){
+            for(int i=0;i<matrix[0].size();i++){matrix[0][i]=0;}
+        }
+        if(firstcolzero){
+        for(int i=0;i<matrix.size();i++){matrix[i][0]=0;}}
     }
 };

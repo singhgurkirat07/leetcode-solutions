@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

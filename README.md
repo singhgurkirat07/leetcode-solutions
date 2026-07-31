@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -65,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
@@ -77,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics

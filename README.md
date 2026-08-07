@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -124,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

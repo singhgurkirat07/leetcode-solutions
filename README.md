@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/singhgurkirat07/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1386-cinema-seat-allocation](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1386-cinema-seat-allocation](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -285,4 +287,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

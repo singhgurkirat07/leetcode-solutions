@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singhgurkirat07/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0877-stone-game) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/singhgurkirat07/leetcode-solutions/tree/master/0877-stone-game) |
